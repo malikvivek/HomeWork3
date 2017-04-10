@@ -1,0 +1,6 @@
+tests/BitVectorTests.class
+tests/HTMLFactoryTests.class
+tests/HTMLTests.class
+tests/HTMLVisitorTests.class
+tests/LoggingHTMLFactoryTests.class
+tests/StringSetTest.class
